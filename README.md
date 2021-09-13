@@ -1,1 +1,1 @@
-# College-Finder-Internship-Projects
+# College-Finder-Data-Science-Projects
